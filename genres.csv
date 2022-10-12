@@ -1,0 +1,678 @@
+id,name,TMDB_ID,year,genre
+1,Batwoman,/tv/89247,2019,"Sci-Fi & Fantasy, Action & Adventure"
+2,Chicago PD,/tv/58841,2014,"Crime, Drama"
+3,FBI,/tv/80748,2018,"Crime, Drama, Action & Adventure"
+4,FBI most wanted,/tv/94372,2020,"Crime, Drama"
+5,Loki,/tv/84958,2021,"Drama, Sci-Fi & Fantasy"
+6,Legacies,/tv/79460,2018,"Sci-Fi & Fantasy, Drama"
+7,Lucifer,/tv/63174,2016,"Crime, Sci-Fi & Fantasy"
+8,Hanna,/tv/54155,2019,"Action & Adventure, Drama"
+9,SEAL Team,/tv/71789,2017,"Action & Adventure, Drama, War & Politics"
+10,Succession,/tv/76331,2018,"Drama, Comedy"
+11,Yellowstone,/tv/73586,2018,"Western, Drama"
+12,911,/tv/75219,2018,"Drama, Crime, Action & Adventure"
+13,The Great,/tv/93812,2020,"Drama, Comedy"
+14,S.W.A.T,/tv/71790,2017,"Action & Adventure, Crime, Drama"
+15,Blade Runner Black Lotus,/tv/84553,2021,"Animation, Sci-Fi & Fantasy, Action & Adventure"
+16,Money Heist,/tv/71446,2017,"Crime, Drama"
+17,The Walking Dead;World Beyond,/tv/1402,2010,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+18,Squid Game,/tv/93405,2021,"Action & Adventure, Mystery, Drama"
+19,Queen of the South,/tv/66676,2016,"Crime, Drama"
+20,NCIS,/tv/4614,2003,"Crime, Action & Adventure, Drama"
+21,Bob Hearts Abishola,/tv/92461,2019,Comedy
+22,NCIS Hawaii,/tv/124271,2021,"Crime, Drama"
+23,The Big Leap,/tv/127161,2021,Drama
+24,Emily in Paris,/tv/82596,2020,"Drama, Comedy"
+25,4400,/tv/127581,2021,"Sci-Fi & Fantasy, Drama"
+26,Insecure,/tv/67883,2016,"Comedy, Drama"
+27,Nancy Drew,/tv/89572,2019,"Mystery, Drama, Sci-Fi & Fantasy"
+28,The Morning Show,/tv/90282,2019,Drama
+30,Riverdale,/tv/69050,2017,"Crime, Drama, Mystery"
+31,The Flash,/tv/60735,2014,"Drama, Sci-Fi & Fantasy"
+32,The Resident,/tv/74016,2018,Drama
+33,Chucky,/tv/90462,2021,"Crime, Sci-Fi & Fantasy"
+34,Alex Rider,/tv/99799,2020,"Drama, Action & Adventure"
+35,Invasion,/tv/127235,2021,"Sci-Fi & Fantasy, Drama"
+36,Superman and Lois,/tv/95057,2021,"Sci-Fi & Fantasy, Drama"
+37,Magnum Pi,/tv/79593,2018,Action & Adventure
+38,Blue Bloods,/tv/32692,2010,"Drama, Crime"
+39,See,/tv/80752,2019,"Drama, Sci-Fi & Fantasy, Action & Adventure"
+40,CSI Vegas,/tv/122194,2021,"Crime, Drama, Mystery"
+41,Lost in Space,/tv/75758,2018,"Sci-Fi & Fantasy, Action & Adventure, Drama"
+42,The Box,/tv/128653,2021,Drama
+43,The Sex Lives of College Girls,/tv/134373,2021,"Comedy, Drama"
+44,The Rookie,/tv/79744,2018,"Crime, Drama"
+45,Landscapers,/tv/113987,2021,"Comedy, Crime, Drama"
+46,Sex Education,/tv/81356,2019,"Comedy, Drama"
+47,Kevin Can Fuck Himself,/tv/99652,2021,"Comedy, Drama"
+48,Sex Life,/tv/126280,2021,Drama
+49,Never Have I Ever,/tv/100883,2020,Comedy
+50,And Just Like That,/tv/116450,2021,"Comedy, Drama"
+51,The oval,/tv/95004,2019,Drama
+52,Hawkeye,/tv/88329,2021,"Drama, Comedy, Action & Adventure"
+53,Queens,/tv/127390,2021,"Soap, Drama"
+54,Rick and Morty,/tv/60625,2013,"Animation, Comedy, Sci-Fi & Fantasy, Action & Adventure"
+55,Tom and Jerry in New York,/tv/127445,2021,"Animation, Comedy, Kids"
+56,Lie with Me,/tv/129019,2021,Drama
+57,Star Trek Discovery,/tv/67198,2017,"Sci-Fi & Fantasy, Action & Adventure"
+58,The Witcher,/tv/71912,2019,"Drama, Action & Adventure"
+59,Big Sky,/tv/100010,2020,"Crime, Drama, Mystery"
+60,MacGruber,/tv/107314,2021,"Action & Adventure, Comedy"
+61,The Expanse,/tv/63639,2015,"Drama, Mystery, Sci-Fi & Fantasy"
+62,Ragdoll,/tv/135156,2021,"Mystery, Crime"
+63,Station Eleven,/tv/90972,2021,"Drama, Sci-Fi & Fantasy"
+64,Firebite,/tv/138525,2021,Sci-Fi & Fantasy
+66,Nikita,/tv/32868,2010,"Drama, Action & Adventure"
+67,Welcome to Earth,/tv/127700,2021,"Documentary, Reality"
+68,Fast & Furios spy Racers,/tv/95594,2019,"Animation, Action & Adventure, Kids, Family"
+69,Yellowjackets,/tv/117488,2021,"Drama, Mystery"
+70,Power Book II Ghost,/tv/97890,2020,"Crime, Drama"
+71,Dexter,/tv/1405,2006,"Crime, Drama, Mystery"
+72,Day of the Dead,/tv/129897,2021,"Action & Adventure, Sci-Fi & Fantasy"
+73,Godfather of Harlem,/tv/79086,2019,"Crime, Drama"
+74,Blood and Water,/tv/64641,2015,"Crime, Drama"
+75,Cursed,/tv/83125,2020,"Action & Adventure, Sci-Fi & Fantasy"
+75,Cursed,/tv/5786,2012,Documentary
+76,1883,/tv/118357,2021,"Western, Drama"
+77,Demon Slayer Kimetsu No Yaiba,/tv/85937,2019,"Animation, Sci-Fi & Fantasy, Action & Adventure"
+78,La Brea,/tv/128839,2021,"Drama, Sci-Fi & Fantasy, Action & Adventure"
+79,What If,/tv/91363,2021,"Animation, Action & Adventure, Sci-Fi & Fantasy"
+80,Strike Back,/tv/32573,2010,"Drama, Action & Adventure"
+80,Strike Back,/tv/126971,2020,
+81,Supergirl,/tv/62688,2015,"Drama, Sci-Fi & Fantasy, Action & Adventure"
+82,The Blacklist,/tv/46952,2013,"Drama, Crime, Mystery"
+83,You,/tv/78191,2018,"Mystery, Crime, Drama"
+84,Dynasty,/tv/72002,2017,"Drama, Soap"
+85,Station 19,/tv/76773,2018,"Drama, Action & Adventure"
+86,Tyler Perrys Sistas,/tv/94686,2019,"Comedy, Drama"
+87,Arrow,/tv/1412,2012,"Crime, Drama, Mystery, Action & Adventure"
+88,Wu Assassins,/tv/86752,2019,"Sci-Fi & Fantasy, Drama, Action & Adventure, Crime"
+89,Daredevil,/tv/61889,2015,"Crime, Drama, Action & Adventure"
+90,Into the Badlands,/tv/47450,2015,Action & Adventure
+91,Greys' Anatomy,/tv/1416,2005,Drama
+92,The Good Doctor,/tv/71712,2017,Drama
+93,Lupin,/tv/96677,2021,"Crime, Drama, Mystery"
+94,Hightown,/tv/86588,2020,"Drama, Crime"
+95,Outer Banks,/tv/100757,2020,"Action & Adventure, Drama, Mystery"
+96,Game of Thrones,/tv/1399,2011,"Sci-Fi & Fantasy, Drama, Action & Adventure"
+97,The 100,/tv/48866,2014,"Sci-Fi & Fantasy, Drama, Action & Adventure"
+98,Utopia,/tv/46511,2013,"Mystery, Drama, Action & Adventure, Sci-Fi & Fantasy, Comedy"
+99,DC's Legends of Tomorrow,/tv/62643,2016,"Action & Adventure, Sci-Fi & Fantasy, Drama"
+100,Designated Survivor,/tv/67026,2016,"Drama, War & Politics"
+101,The Last Ship,/tv/60802,2014,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+102,11.22.63,/tv/64464,2016,"Drama, Sci-Fi & Fantasy"
+103,Letterkenny,/tv/65798,2016,Comedy
+104,Vikings,/tv/44217,2013,"Action & Adventure, Drama, War & Politics"
+105,911 Lone Star,/tv/89393,2020,"Drama, Action & Adventure, Crime"
+106,Kenan,/tv/116609,2021,"Comedy, Family"
+107,Cobra Kai,/tv/77169,2018,"Action & Adventure, Drama, Comedy"
+108,Young Justice,/tv/33217,2010,"Animation, Sci-Fi & Fantasy, Action & Adventure"
+109,Around the World in 80 Days,/tv/96228,2021,"Action & Adventure, Family"
+110,The Equilizer,/tv/62153,2014,Sci-Fi & Fantasy
+112,F is for Family,/tv/63522,2015,"Comedy, Animation"
+113,Family Guy,/tv/1434,1999,"Animation, Comedy"
+114,Elite,/tv/76669,2018,"Crime, Mystery, Drama"
+115,Stay Close,/tv/136308,2021,"Drama, Crime, Mystery"
+116,The Cleaning Lady,/tv/125282,2022,"Crime, Drama"
+117,The Tourist,/tv/120909,2022,"Mystery, Drama"
+118,This Is Us,/tv/67136,2016,"Comedy, Drama"
+119,FBI International,/tv/121658,2021,"Crime, Drama"
+120,Chicago Med,/tv/62650,2015,Drama
+121,MacGyver,/tv/67133,2016,"Drama, Action & Adventure"
+122,The Conners,/tv/80550,2018,Comedy
+123,Gossip Girl,/tv/95249,2021,"Drama, Mystery"
+124,The Outpost,/tv/79340,2018,"Sci-Fi & Fantasy, Action & Adventure"
+125,The Big Theory,/tv/50133,2013,
+126,Bodyguard,/tv/80307,2018,"Crime, Drama, War & Politics"
+127,Deadly Class,/tv/75663,2019,"Drama, Crime, Action & Adventure"
+128,Blackish,/tv/61381,2014,Comedy
+129,Chicago Fire,/tv/44006,2012,Drama
+130,Hawaii Five 0,/tv/32798,2010,"Crime, Drama, Action & Adventure"
+131,Coroner,/tv/85586,2019,"Drama, Crime, Mystery"
+133,Bull,/tv/66840,2016,"Crime, Drama"
+134,Young Sheldon,/tv/71728,2017,Comedy
+135,Naomi,/tv/125474,2022,"Drama, Sci-Fi & Fantasy"
+136,A Discovery of Witches,/tv/77236,2018,"Sci-Fi & Fantasy, Drama"
+137,Screw,/tv/153425,2022,Drama
+138,68 Whiskey,/tv/88947,2020,"Drama, Comedy"
+139,Altered Carbon,/tv/68421,2018,Sci-Fi & Fantasy
+140,American Crime Story,/tv/64513,2016,"Crime, Drama"
+141,Dark,/tv/70523,2017,"Sci-Fi & Fantasy, Drama, Mystery, Crime"
+142,Banshee,/tv/41727,2013,"Crime, Drama"
+143,Spartacus,/tv/46296,2010,Drama
+144,A Million Little Things,/tv/81499,2018,Drama
+145,Wolf Like Me,/tv/136738,2022,"Comedy, Sci-Fi & Fantasy"
+146,Archive 81,/tv/112314,2022,"Drama, Mystery, Sci-Fi & Fantasy"
+147,Peacemaker,/tv/110492,2022,"Action & Adventure, Sci-Fi & Fantasy, Drama"
+148,Euphoria,/tv/85552,2019,"Drama, Crime"
+149,After Life,/tv/79410,2019,"Comedy, Drama"
+150,Attack on Titan,/tv/1429,2013,"Sci-Fi & Fantasy, Animation, Action & Adventure"
+151,New Amsterdam,/tv/80350,2018,Drama
+151,New Amsterdam,/tv/1144,2008,"Drama, Sci-Fi & Fantasy"
+152,How I Met Your Father,/tv/124010,2022,Comedy
+154,The Book of Boba Fett,/tv/115036,2021,"Action & Adventure, Sci-Fi & Fantasy"
+155,Good Sam,/tv/125952,2022,Drama
+156,Shannara Chronicles,/tv/64122,2016,"Action & Adventure, Sci-Fi & Fantasy"
+157,Ozark,/tv/69740,2017,"Crime, Drama"
+158,Jaguar,/tv/127425,2021,"Drama, War & Politics"
+159,The Hardy Boys,/tv/112945,2020,"Drama, Mystery"
+160,The Flight Attendant,/tv/93287,2020,"Drama, Mystery, Comedy"
+161,The Mandalorian,/tv/82856,2019,"Sci-Fi & Fantasy, Action & Adventure, Drama"
+162,Dracula,/tv/86850,2020,"Drama, Action & Adventure"
+163,Soulmates,/tv/100771,2020,"Sci-Fi & Fantasy, Crime"
+164,Equinox,/tv/113600,2020,"Sci-Fi & Fantasy, Drama"
+166,Billions,/tv/62852,2016,Drama
+167,The Righteous Gemstones,/tv/82782,2019,Comedy
+168,Trigger Point,/tv/127716,2022,"Crime, Drama"
+169,The Gilded Age,/tv/81723,2022,Drama
+170,Ghosts,/tv/126027,2021,Comedy
+172,Snowpiercer,/tv/79680,2020,Sci-Fi & Fantasy
+173,Two Sentence Horror Stories,/tv/90961,2019,Mystery
+174,In From the Cold,/tv/146173,2022,"Drama, Sci-Fi & Fantasy, Action & Adventure"
+175,All of Us Are Dead,/tv/99966,2022,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+176,The Afterparty,/tv/106454,2022,"Mystery, Comedy, Crime"
+177,The Responder,/tv/155346,2022,"Drama, Crime"
+178,The Woman in the House Across the Street from the Girl in the Window,/tv/111838,2022,"Mystery, Crime, Drama, Comedy"
+179,Resident Alien,/tv/96580,2021,Sci-Fi & Fantasy
+181,Raising Dion,/tv/93392,2019,"Drama, Sci-Fi & Fantasy"
+182,Reacher,/tv/108978,2022,"Action & Adventure, Crime, Drama"
+183,SKAM,/tv/65320,2015,Drama
+184,Servant,/tv/88055,2019,Drama
+185,Raised by Wolves,/tv/85723,2020,"Sci-Fi & Fantasy, Drama"
+186,Power Book IV: Force,/tv/119845,2022,"Crime, Drama"
+187,Murderville,/tv/155594,2022,"Comedy, Crime"
+188,Love Death & Robots,/tv/86831,2019,"Animation, Sci-Fi & Fantasy"
+189,Chloe,/tv/156507,2022,"Mystery, Drama"
+190,Jane the Virgin,/tv/61418,2014,"Comedy, Drama"
+191,Abbott Elementary,/tv/125935,2021,Comedy
+193,Neymar: The Perfect Chaos,/tv/153519,2022,Documentary
+194,Women Of Movement,/tv/111263,2022,Drama
+195,Single Drunk Female,/tv/136739,2022,"Drama, Comedy"
+196,Promised Land,/tv/130980,2022,Drama
+197,Super Crooks,/tv/127599,2021,"Animation, Crime, Sci-Fi & Fantasy, Action & Adventure"
+198,Suspicion,/tv/100414,2022,"Drama, Crime"
+199,Somebody Somewhere,/tv/106308,2022,"Comedy, Drama"
+200,Person of Interest,/tv/1411,2011,"Drama, Action & Adventure, Crime, Sci-Fi & Fantasy"
+201,Dollface,/tv/84584,2019,Comedy
+202,Inventing Anna,/tv/95665,2022,Drama
+203,Bel-Air,/tv/107365,2022,Drama
+204,The Last Kingdom,/tv/63333,2015,"Action & Adventure, Drama, War & Politics"
+205,Scandal,/tv/39269,2012,Drama
+206,Space Force,/tv/85922,2020,Comedy
+207,Snowdrop,/tv/108291,2021,"Drama, Soap, War & Politics"
+208,Young Wallander,/tv/91545,2020,"Drama, Mystery, Crime"
+209,Severance,/tv/95396,2022,"Drama, Mystery, Sci-Fi & Fantasy"
+210,The Marvelous Mrs. Maisel,/tv/70796,2017,"Comedy, Drama"
+211,The Walking Dead,/tv/1402,2010,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+212,Scream,/tv/62823,2015,"Drama, Crime, Mystery"
+213,Treadstone,/tv/83949,2019,Action & Adventure
+214,Beauty and the Beast,/tv/44606,2012,"Drama, Sci-Fi & Fantasy"
+215,From,/tv/124364,2022,"Mystery, Drama, Sci-Fi & Fantasy"
+216,Super Pumped,/tv/126301,2022,Drama
+217,Vikings: Valhalla,/tv/116135,2022,"Action & Adventure, Drama, War & Politics"
+218,Black Lightning,/tv/71663,2018,"Action & Adventure, Sci-Fi & Fantasy, Drama"
+219,The Endgame,/tv/134375,2022,"Crime, Drama"
+220,Star Trek Picard,/tv/85949,2020,"Sci-Fi & Fantasy, Action & Adventure"
+221,The Dropout,/tv/122066,2022,Drama
+222,Kung-Fu,/tv/114165,2021,"Action & Adventure, Drama"
+223,Good Trouble,/tv/80006,2019,Drama
+224,Theodosia,/tv/139061,2022,"Action & Adventure, Sci-Fi & Fantasy, Mystery"
+225,Snowfall,/tv/71694,2017,"Crime, Drama"
+225,Snowfall,/tv/68913,2016,"Family, Kids"
+226,The Last Days of Ptolemy Grey,/tv/155493,2022,Drama
+227,Formula 1: Drive to Survive,/tv/87083,2019,Documentary
+228,Walker,/tv/99121,2021,"Crime, Drama, Action & Adventure"
+229,The Office,/tv/2996,2001,Comedy
+230,Charmed,/tv/1981,1998,"Comedy, Drama, Mystery, Sci-Fi & Fantasy"
+230,Charmed,/tv/79611,2018,"Drama, Sci-Fi & Fantasy"
+231,B Positive,/tv/104714,2020,Comedy
+233,Peaky Blinders,/tv/60574,2013,"Drama, Crime"
+234,All American: Homecoming,/tv/153723,2022,Drama
+235,All American,/tv/82428,2018,Drama
+236,Minx,/tv/118303,2022,Comedy
+237,DMZ,/tv/113566,2022,"Drama, Sci-Fi & Fantasy"
+238,Our Flag Means Death,/tv/109939,2022,"Comedy, Action & Adventure, Drama"
+240,Law & Order: Organized Crime,/tv/106158,2021,"Crime, Drama"
+242,That Dirty Black Bag,/tv/157084,2022,"Western, Drama"
+243,Bridgerton,/tv/91239,2020,Drama
+244,Pachinko,/tv/110382,2022,Drama
+245,Halo,/tv/52814,2022,"Action & Adventure, Sci-Fi & Fantasy"
+246,Marvel Studios Assembled,/tv/118924,2021,Documentary
+247,Pieces of Her,/tv/99002,2022,"Crime, Mystery, Drama"
+248,Parallels,/tv/118906,2022,"Action & Adventure, Sci-Fi & Fantasy"
+249,Atlanta,/tv/65495,2016,"Comedy, Drama"
+250,Killing Eve,/tv/72750,2018,"Crime, Drama"
+251,The Girl from Plainville,/tv/107114,2022,"Drama, Crime"
+252,Better Things,/tv/66859,2016,"Comedy, Drama"
+253,Moon Knight,/tv/92749,2022,"Action & Adventure, Sci-Fi & Fantasy, Mystery"
+254,Young Rock,/tv/97754,2021,Comedy
+255,Lethal Weapon,/tv/67116,2016,"Action & Adventure, Crime, Drama"
+256,The Vampire Diaries,/tv/18165,2009,"Drama, Sci-Fi & Fantasy"
+257,Tomorrow,/tv/136369,2022,Drama
+258,Slow Horses,/tv/95480,2022,"Drama, Crime"
+259,Shining Vale,/tv/136745,2022,"Comedy, Drama"
+260,Tokyo Vice,/tv/90296,2022,"Crime, Drama"
+261,61st Street,/tv/98657,2022,"Drama, Crime"
+262,Gentleman Jack,/tv/86163,2019,Drama
+264,Ice Age: Scrat Tales,/tv/158307,2022,"Animation, Family, Comedy"
+265,The Queen's Gambit,/tv/87739,2020,Drama
+266,Derry Girls,/tv/76148,2018,Comedy
+267,The Boarding School Las Cumbres,/tv/97513,2021,"Drama, Mystery"
+268,The Originals,/tv/46896,2013,"Sci-Fi & Fantasy, Drama, Mystery"
+269,Roar,/tv/136741,2022,Drama
+270,Outer Range,/tv/113985,2022,"Western, Mystery"
+271,Anatomy of a Scandal,/tv/113984,2022,Drama
+272,Why Didnt They Ask Evans?,/tv/157372,2022,"Drama, Mystery"
+273,Fear the Walking Dead,/tv/62286,2015,"Action & Adventure, Drama"
+274,Swimming with Sharks,/tv/156822,2022,Drama
+275,The First Lady,/tv/99070,2022,Drama
+276,Russian Doll,/tv/84977,2019,"Comedy, Drama"
+277,Pacific Rim: The Black,/tv/112162,2021,"Sci-Fi & Fantasy, Animation, Action & Adventure"
+278,My Brilliant Friend,/tv/78154,2018,Drama
+279,iCarly,/tv/119243,2021,Comedy
+280,Julia,/tv/116761,2022,Drama
+281,The Rising,/tv/124477,2022,"Crime, Sci-Fi & Fantasy"
+282,Heartstopper,/tv/124834,2022,Drama
+283,Sanditon,/tv/92875,2019,Drama
+284,The Man Who Fell to Earth,/tv/118663,2022,Sci-Fi & Fantasy
+284,The Man Who Fell to Earth,/tv/17143,2022,Drama
+285,Gaslit,/tv/107407,2022,Drama
+286,Hilda,/tv/82456,2018,"Animation, Family, Sci-Fi & Fantasy"
+287,Billy the Kid,/tv/138971,2022,"Western, Drama"
+288,Outlander,/tv/56570,2014,"Drama, Sci-Fi & Fantasy"
+289,Mai: A Mother's Rage,/tv/195900,2022,"Crime, Drama, Mystery"
+290,Under the Banner of Heaven,/tv/128095,2022,"Crime, Drama, Mystery"
+291,We Own This City,/tv/125949,2022,"Crime, Drama"
+292,Barry,/tv/73107,2018,"Comedy, Crime, Drama"
+293,The Offer,/tv/114068,2022,Drama
+294,Undone,/tv/86340,2019,"Animation, Sci-Fi & Fantasy, Drama, Mystery"
+295,Manifest,/tv/79696,2018,"Drama, Mystery, Sci-Fi & Fantasy"
+296,Shining Girls,/tv/106388,2022,Drama
+297,Winning Time: The Rise of the Lakers Dynasty,/tv/124067,2022,"Comedy, Drama"
+298,The Baby,/tv/115915,2022,"Comedy, Mystery"
+299,Welcome to Eden,/tv/128010,2022,"Action & Adventure, Sci-Fi & Fantasy, Drama"
+300,Clark,/tv/157008,2022,"Crime, Drama"
+301,Dragons: The Nine Realms,/tv/136322,2021,"Animation, Action & Adventure"
+302,The Pentaverate,/tv/88584,2022,Comedy
+303,Blood Sisters,/tv/197428,2022,"Crime, Drama"
+304,Bosch Legacy,/tv/153657,2022,"Crime, Drama"
+305,Made For Love,/tv/90970,2021,"Sci-Fi & Fantasy, Drama, Comedy"
+306,The Sound of Magic,/tv/123349,2022,"Drama, Sci-Fi & Fantasy"
+307,The Wilds,/tv/113367,2020,"Mystery, Drama"
+308,Star Trek: Lower Decks,/tv/85948,2020,"Sci-Fi & Fantasy, Animation, Comedy"
+309,Candy,/tv/105804,2022,Crime
+310,Better Call Saul,/tv/60059,2015,"Crime, Drama"
+311,The Lincoln Lawyer,/tv/116799,2022,"Drama, Crime"
+312,Games People Play,/tv/88770,2019,Drama
+313,The Time Traveler,/tv/81322,2022,"Sci-Fi & Fantasy, Drama"
+315,Hacks,/tv/124101,2021,"Comedy, Drama"
+316,The Staircase,/tv/122196,2022,"Drama, Crime"
+316,The Staircase,/tv/21421,2004,"Documentary, Crime"
+317,Star Trek: Strange New Worlds,/tv/103516,2022,Sci-Fi & Fantasy
+318,Love,/tv/53606,2016,"Comedy, Drama"
+319,Night Sky,/tv/111894,2022,"Sci-Fi & Fantasy, Drama"
+320,The Essex Serpent,/tv/108171,2022,Drama
+321,Heroes,/tv/1639,2006,"Sci-Fi & Fantasy, Drama"
+322,P-Valley,/tv/87017,2020,"Drama, Crime"
+323,Hannibal,/tv/40008,2013,"Drama, Crime"
+324,Obi-Wan Kenobi,/tv/92830,2022,"Sci-Fi & Fantasy, Action & Adventure, Drama"
+325,Tehran,/tv/103913,2020,Drama
+326,Prehistoric Planet,/tv/95171,2022,Documentary
+327,Stranger Things,/tv/66732,2016,"Drama, Sci-Fi & Fantasy, Mystery"
+328,Atlantis,/tv/47054,2013,"Action & Adventure, Sci-Fi & Fantasy"
+329,Angelyne,/tv/93751,2022,Drama
+330,Duncanville,/tv/93292,2020,"Comedy, Animation"
+331,Good Omens,/tv/71915,2019,"Sci-Fi & Fantasy, Comedy, Drama"
+332,Tacoma FD,/tv/86893,2019,Comedy
+333,The Affair,/tv/61463,2014,Drama
+334,Gomorrah,/tv/61068,2014,"Crime, Drama"
+335,Bosch,/tv/60585,2015,"Mystery, Drama, Crime"
+336,Shadowhunters,/tv/63210,2016,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+337,13 Reasons Why,/tv/66788,2017,"Drama, Mystery"
+338,Iron Fist,/tv/62127,2017,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+339,The Defenders,/tv/62285,2017,"Sci-Fi & Fantasy, Action & Adventure, Crime"
+340,Shooter,/tv/66857,2016,"Action & Adventure, War & Politics, Drama"
+341,Pistol,/tv/132159,2022,Drama
+342,Breeders,/tv/93290,2020,"Comedy, Family"
+344,The Boys,/tv/76479,2019,"Sci-Fi & Fantasy, Action & Adventure"
+345,Physical,/tv/119181,2021,"Comedy, Drama"
+346,Roswell,/tv/4624,1999,"Sci-Fi & Fantasy, Drama"
+347,Irma Vep,/tv/115626,2022,"Comedy, Drama"
+348,In the Dark,/tv/85727,2019,"Drama, Comedy"
+349,Warrior Nun,/tv/87689,2020,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+350,All Rise,/tv/90872,2019,"Drama, Crime"
+351,Once Upon a Time in Londongrad,/tv/203226,2022,Documentary
+352,The Orville,/tv/71738,2017,"Drama, Comedy, Sci-Fi & Fantasy"
+353,Intelligence,/tv/88110,2020,Comedy
+354,For All Mankind,/tv/87917,2019,"Drama, Sci-Fi & Fantasy, War & Politics"
+355,First Kill,/tv/111616,2022,"Drama, Mystery"
+356,Conversations with Friends,/tv/99747,2022,Drama
+357,Des,/tv/96628,2020,"Crime, Drama"
+358,Disenchantment,/tv/73021,2018,"Animation, Comedy, Action & Adventure, Sci-Fi & Fantasy"
+359,George Carlins American Dream,/tv/201123,2022,Documentary
+360,Evil,/tv/86848,2019,Drama
+361,Intimacy,/tv/123534,2022,"Drama, Mystery"
+362,Becoming Elizabeth,/tv/198085,2022,Drama
+363,Dark Winds,/tv/128904,2022,"Crime, Drama"
+364,Top Gear,/tv/45,2002,"Documentary, Reality, Talk"
+365,Love Victor,/tv/97186,2020,"Comedy, Drama"
+366,Ms. Marvel,/tv/92782,2022,"Sci-Fi & Fantasy, Action & Adventure, Comedy"
+367,Sherwood,/tv/155243,2022,"Crime, Mystery"
+368,God's Favorite Idiot,/tv/114201,2022,Comedy
+369,Tom Swift,/tv/132380,2022,Drama
+370,America's Got Talent,/tv/4551,2006,Reality
+371,The Old Man,/tv/111800,2022,"Action & Adventure, Drama"
+372,The Lazarus Project,/tv/194567,2022,"Sci-Fi & Fantasy, Drama, Action & Adventure"
+373,Dead End: Paranormal Park,/tv/158139,2022,"Animation, Kids"
+374,Better Call Saul Presents: Slippin' Jimmy,/tv/158704,2022,"Animation, Comedy"
+375,Goliath,/tv/67384,2016,"Crime, Drama"
+376,The Orbital Children,/tv/138190,2022,"Animation, Action & Adventure, Sci-Fi & Fantasy"
+377,Motherland: Fort Salem,/tv/91977,2020,"Sci-Fi & Fantasy, Drama"
+378,Money Heist: Korea ,/tv/112836,2022,"Action & Adventure, Crime, Drama, Mystery"
+379,Man vs. Bee,/tv/197588,2022,"Comedy, Family"
+380,The Chi,/tv/72071,2018,Drama
+381,The Summer I Turned Pretty,/tv/194766,2022,Drama
+382,The Umbrella Academy,/tv/75006,2019,"Action & Adventure, Sci-Fi & Fantasy, Drama"
+383,Loot,/tv/197449,2022,Comedy
+384,Who Killed Sara?,/tv/120168,2021,"Drama, Crime, Mystery"
+385,So You Think You Can Dance,/tv/3976,2005,Reality
+386,The Lake,/tv/158051,2022,"Comedy, Drama"
+387,Only Murders in the Building,/tv/107113,2021,"Comedy, Crime, Mystery"
+388,Animal Kingdom,/tv/66025,2016,"Crime, Drama"
+389,Westworld,/tv/63247,2016,"Sci-Fi & Fantasy, Western"
+390,The Outlaws,/tv/136044,2021,"Comedy, Crime, Drama"
+391,Prison Break,/tv/2288,2005,"Action & Adventure, Crime, Drama"
+392,The Terminal List,/tv/120911,2022,"Action & Adventure, Drama"
+393,Baymax,/tv/114466,2022,"Animation, Family"
+394,Aoashi,/tv/126437,2022,"Animation, Drama, Comedy"
+395,Bad Sport,/tv/133358,2021,"Crime, Documentary"
+396,Last Chance U: Basketball,/tv/118876,2021,Documentary
+397,The Undeclared War,/tv/156988,2022,"War & Politics, Drama, Sci-Fi & Fantasy"
+398,Troppo,/tv/130578,2022,"Crime, Drama"
+399,They Call Me Magic,/tv/157002,2022,Documentary
+400,The Croods: Family Tree,/tv/132559,2021,"Animation, Family, Action & Adventure"
+401,SPY x FAMILY,/tv/120089,2022,"Animation, Comedy, Action & Adventure"
+402,Rutherford Falls,/tv/93748,2021,Comedy
+403,Power Book III: Raising Kanan,/tv/124394,2021,Drama
+404,Transporter: The Series,/tv/39497,2012,"Action & Adventure, Crime, Drama"
+405,Black Bird,/tv/155537,2022,"Drama, Crime"
+406,Moonhaven,/tv/125398,2022,Sci-Fi & Fantasy
+407,Marvel Studios: Legends,/tv/114695,2021,"Documentary, Action & Adventure, Sci-Fi & Fantasy"
+408,Control Z,/tv/102903,2020,Drama
+409,Boo Bitch,/tv/132188,2022,"Comedy, Sci-Fi & Fantasy"
+410,Fatma,/tv/123138,2021,"Crime, Drama"
+412,Them,/tv/120462,2021,"Drama, Mystery"
+413,Hit-Monkey,/tv/133903,2021,"Action & Adventure, Animation"
+414,Santa Inc.,/tv/103214,2021,"Comedy, Animation"
+415,The Nevers,/tv/80828,2021,"Sci-Fi & Fantasy, Drama"
+416,The Falcon and the Winter Soldier,/tv/88396,2021,"Action & Adventure, Drama"
+417,Stargirl,/tv/80986,2020,"Sci-Fi & Fantasy, Action & Adventure, Drama"
+418,Gangs of London,/tv/85021,2020,"Crime, Drama"
+419,Spy City,/tv/113828,2020,"Drama, War & Politics"
+420,Ragnarok,/tv/91557,2020,"Sci-Fi & Fantasy, Drama, Mystery"
+421,Mind Over Murder,/tv/203282,2022,"Documentary, Crime"
+422,Inhumans,/tv/68716,2017,"Drama, Sci-Fi & Fantasy, Action & Adventure"
+423,Big Mouth,/tv/74204,2017,"Comedy, Animation"
+424,Big Little Lies,/tv/66292,2017,Drama
+425,Taboo,/tv/65708,2017,"Drama, Mystery"
+426,American Gods,/tv/46639,2017,"Drama, Mystery, Sci-Fi & Fantasy"
+427,Godless,/tv/73467,2017,"Western, Drama"
+428,The Sinner,/tv/39852,2017,"Crime, Drama"
+429,What We Do in the Shadows,/tv/83631,2019,Comedy
+430,Solar Opposites,/tv/97645,2020,"Comedy, Animation, Sci-Fi & Fantasy"
+431,D.B. Cooper: Where Are You?!,/tv/204302,2022,"Documentary, Crime"
+432,Resident Evil,/tv/108296,2022,"Drama, Sci-Fi & Fantasy"
+433,Kung Fu Panda: The Dragon Knight,/tv/129959,2022,"Animation, Action & Adventure, Comedy"
+434,Farzar,/tv/202864,2022,"Sci-Fi & Fantasy, Comedy, Animation"
+435,Blood and Treasure,/tv/197131,2022,
+436,Bucchigire!,/tv/195924,2022,"Animation, Action & Adventure, Drama"
+437,Boruto: Naruto Next Generations,/tv/70881,2017,"Action & Adventure, Animation"
+438,grown-ish,/tv/71885,2018,Comedy
+439,Virgin River,/tv/88324,2019,Drama
+440,Jurassic World: Camp Cretaceous,/tv/93741,2020,"Animation, Kids, Action & Adventure"
+441,Standup and Away! with Brian Regan,/tv/110167,2018,Comedy
+442,The Last Movie Stars,/tv/157021,2022,Documentary
+443,Primal,/tv/89456,2019,"Action & Adventure, Animation, Drama"
+444,Miss Scarlet and the Duke,/tv/96450,2020,"Drama, Mystery, Crime"
+445,Trying,/tv/98177,2020,Comedy
+445,Trying,/tv/206733,2022,Drama
+446,The Rehearsal,/tv/204284,2022,"Comedy, Documentary"
+447,James May: Our Man in Italy,/tv/96723,2020,Documentary
+448,Jane Eyre,/tv/13851,2006,Drama
+449,Uncoupled,/tv/201380,2022,"Comedy, Soap"
+450,Are You Afraid of the Dark?,/tv/93693,2019,Mystery
+451,Paper Girls,/tv/106431,2022,"Drama, Mystery, Sci-Fi & Fantasy"
+452,Players,/tv/132178,2022,"Comedy, Drama"
+453,Surface,/tv/127641,2022,Drama
+454,Black Spot,/tv/70613,2017,"Mystery, Drama, Crime"
+455,Keep Breathing,/tv/195822,2022,Action & Adventure
+456,The Resort,/tv/194728,2022,"Comedy, Mystery"
+457,Pretty Little Liars: Original Sin,/tv/110531,2022,"Drama, Mystery"
+458,American Horror Stories,/tv/113036,2021,"Drama, Mystery, Sci-Fi & Fantasy"
+459,Snake in the Grass,/tv/206427,2022,Reality
+460,The Most Hated Man on the Internet,/tv/205106,2022,Documentary
+461,Tuca & Bertie,/tv/79356,2019,"Comedy, Animation"
+462,City on a Hill,/tv/79618,2019,"Crime, Drama"
+463,Harley Quinn,/tv/74440,2019,"Sci-Fi & Fantasy, Animation, Crime, Action & Adventure, Comedy"
+464,All the Same... or Not,/tv/114105,2022,"Comedy, Drama, Family"
+465,Industry,/tv/90812,2020,Drama
+466,Reservation Dogs,/tv/95215,2021,"Drama, Comedy, Crime"
+467,Uncle from Another World,/tv/127714,2022,"Animation, Comedy, Sci-Fi & Fantasy"
+468,All or Nothing: Arsenal,/tv/132376,2022,Documentary
+469,Yasuke,/tv/112166,2021,"Animation, Drama, Action & Adventure, Sci-Fi & Fantasy"
+470,Trese,/tv/94924,2021,"Animation, Sci-Fi & Fantasy, Mystery, Crime"
+471,Sweet Tooth,/tv/103768,2021,"Drama, Sci-Fi & Fantasy"
+472,The Silent Sea,/tv/96777,2021,"Drama, Sci-Fi & Fantasy, Mystery"
+473,Power,/tv/54650,2014,"Crime, Drama"
+474,Locke & Key,/tv/86423,2020,"Sci-Fi & Fantasy, Drama, Mystery"
+475,Star Wars; Rebels,/tv/60554,2014,"Action & Adventure, Animation"
+476,Bridge and Tunnel,/tv/111750,2021,"Drama, Comedy"
+477,The Anarchists,/tv/204899,2022,Documentary
+479,Surviving Escobar: Alias JJ,/tv/70828,2017,"Drama, Crime"
+480,The Sandman,/tv/90802,2022,"Sci-Fi & Fantasy, Drama"
+481,High School Musical: The Musical - The Series,/tv/85801,2019,"Family, Comedy, Drama"
+482,Shoot! Goal to the Future,/tv/138882,2022,Animation
+483,Colosseum,/tv/204377,2022,"Action & Adventure, Drama, Documentary"
+484,UFO,/tv/127642,2021,Documentary
+485,School Tales the Series,/tv/203502,2022,"Drama, Mystery"
+487,Beavis and Butt-head,/tv/13943,1993,"Animation, Comedy"
+489,This Fool,/tv/202137,2022,Comedy
+490,Password,/tv/203254,2022,
+491,Everything,/tv/135312,2022,Comedy
+492,Five Days at Memorial,/tv/108664,2022,Drama
+493,Flatbush Misdemeanors,/tv/111500,2021,Drama
+494,Running Wild with Bear Grylls: The Challenge,/tv/204577,2022,Reality
+495,A League of Their Own,/tv/107005,2022,"Comedy, Drama"
+496,Tales of the Walking Dead,/tv/136248,2022,"Drama, Action & Adventure, Sci-Fi & Fantasy"
+497,Legacy: The True Story of the LA Lakers,/tv/204554,2022,Documentary
+498,Rabbids Invasion,/tv/62201,2013,"Animation, Comedy"
+499,Family Law,/tv/124643,2021,Drama
+500,A Model Family,/tv/132171,2022,"Drama, Crime"
+501,The Knights of Castelcorvo,/tv/111442,2020,Mystery
+502,After the Verdict,/tv/137831,2022,"Crime, Drama"
+503,Aftermath,/tv/67439,2016,Sci-Fi & Fantasy
+504,Again My Life,/tv/135654,2022,Drama
+505,Agatha Christie's Marple,/tv/6127,2004,"Drama, Crime, Mystery"
+506,Agatha Raisin,/tv/66671,2016,"Comedy, Mystery"
+507,Hotties,/tv/206300,2022,Reality
+508,Bunnicula,/tv/65564,2016,"Animation, Comedy"
+509,Hamster & Gretel,/tv/156606,2022,"Animation, Comedy, Action & Adventure"
+510,Halston,/tv/99617,2021,Drama
+511,Halt and Catch Fire,/tv/59659,2014,Drama
+512,Inside Pixar,/tv/111815,2020,Documentary
+513,Children of the Underground,/tv/206319,2022,Documentary
+515,Knightfall,/tv/73117,2017,"Action & Adventure, Drama"
+516,Castle,/tv/1419,2009,"Drama, Crime"
+517,Castle Rock,/tv/71116,2018,"Mystery, Drama"
+518,Imposters,/tv/69889,2017,"Drama, Comedy, Mystery, Crime"
+519,She-Hulk: Attorney at Law,/tv/92783,2022,"Comedy, Sci-Fi & Fantasy"
+520,Tekken: Bloodline,/tv/195530,2022,"Action & Adventure, Sci-Fi & Fantasy, Animation"
+521,He-Man and the Masters of the Universe,/tv/96659,2021,"Animation, Sci-Fi & Fantasy, Family, Action & Adventure"
+522,Selena + Chef,/tv/106978,2020,Reality
+523,Shetland,/tv/46923,2013,"Crime, Drama, Mystery"
+524,Bad Sisters,/tv/199318,2022,"Drama, Comedy"
+525,Echoes,/tv/129612,2022,"Drama, Mystery"
+526,Rap Sh!t,/tv/155772,2022,Comedy
+527,The Girl in the Mirror,/tv/127424,2022,"Mystery, Sci-Fi & Fantasy"
+528,Schulz Saves America,/tv/114604,2020,Comedy
+529,Sprung,/tv/204698,2022,Comedy
+530,Code Black,/tv/63418,2015,Drama
+531,1000 Ways to Die,/tv/15826,2009,"Documentary, Comedy"
+532,Criminal Minds,/tv/4057,2005,"Crime, Drama, Mystery"
+533,House of the Dragon,/tv/94997,2022,"Sci-Fi & Fantasy, Drama, Action & Adventure"
+534,Kleo,/tv/206010,2022,"Action & Adventure, Drama, Comedy"
+535,The Cuphead Show!,/tv/103786,2022,"Animation, Comedy, Family"
+536,Special OPS,/tv/100612,2020,"Mystery, Drama"
+537,Below Deck Mediterranean,/tv/66902,2016,Reality
+538,Beat Shazam,/tv/71654,2017,Reality
+539,Angels in America,/tv/11245,2003,"Drama, Sci-Fi & Fantasy"
+540,Fleabag,/tv/67070,2016,"Comedy, Drama"
+541,Goblin: The Lonely and Great God,/tv/67915,2016,"Drama, Sci-Fi & Fantasy"
+542,Horace and Pete,/tv/65454,2016,"Drama, Comedy"
+543,LEGO Star Wars: The Freemaker Adventures,/tv/66837,2016,Animation
+544,LEGO Star Wars: The Resistance Rises,/tv/66487,2016,"Animation, Sci-Fi & Fantasy"
+545,Luke Cage,/tv/62126,2016,"Drama, Sci-Fi & Fantasy, Action & Adventure, Crime"
+546,Man with a Plan,/tv/67156,2016,Comedy
+547,Medici: Masters of Florence,/tv/66761,2016,"Drama, War & Politics"
+548,Preacher,/tv/64230,2016,"Sci-Fi & Fantasy, Mystery, Drama"
+549,Private Eyes,/tv/66599,2016,"Crime, Drama"
+550,Archer,/tv/10283,2009,"Comedy, Action & Adventure, Animation"
+551,Lost Ollie,/tv/156935,2022,"Animation, Family, Drama"
+552,Delhi Crime,/tv/87508,2019,Crime
+553,Chad & JT Go Deep,/tv/205798,2022,Comedy
+554,Mo,/tv/201124,2022,"Comedy, Drama"
+555,The Twelve,/tv/202113,2022,"Crime, Drama"
+556,Mike,/tv/135250,2022,Drama
+557,The Crown,/tv/65494,2016,Drama
+558,The Girlfriend Experience,/tv/64387,2016,Drama
+559,The Grand Tour,/tv/67557,2016,"Talk, Reality"
+560,Van Helsing,/tv/65820,2016,"Mystery, Sci-Fi & Fantasy, Action & Adventure"
+561,Kidding,/tv/73925,2018,"Drama, Comedy"
+562,My Mister,/tv/76662,2018,Drama
+563,Interrogation Raw,/tv/203453,2022,"Crime, Documentary"
+564,Welcome to Wrexham,/tv/126929,2022,Documentary
+565,Little Demon,/tv/125392,2022,"Animation, Comedy"
+566,Partner Track,/tv/135035,2022,Drama
+567,The Patient,/tv/135868,2022,"Drama, Crime"
+568,The Lord of the Rings: The Rings of Power,/tv/84773,2022,"Sci-Fi & Fantasy, Action & Adventure, Drama"
+569,The Ipcress File,/tv/114926,2022,"Action & Adventure, Drama, War & Politics"
+570,Pantheon,/tv/195339,2022,"Animation, Sci-Fi & Fantasy"
+571,The Capture,/tv/93166,2019,"Crime, Drama"
+573,Ghosts of Devil's Perch,/tv/208734,2022,
+574,The Dark Crystal: Age of Resistance,/tv/71809,2019,"Sci-Fi & Fantasy, Action & Adventure"
+575,Fakes,/tv/207841,2022,"Crime, Comedy"
+576,Ghostwriter,/tv/93520,2019,"Kids, Sci-Fi & Fantasy, Action & Adventure"
+577,House of Hammer,/tv/207836,2022,Documentary
+578,Devil in Ohio,/tv/133700,2022,"Crime, Drama, Mystery"
+579,One Piece,/tv/37854,1999,"Action & Adventure, Comedy, Animation"
+580,Ridley,/tv/132306,2022,Mystery
+581,Queen Sugar,/tv/67679,2016,Drama
+582,Cars on the Road,/tv/114502,2022,"Animation, Comedy, Family"
+583,The Suspect,/tv/157062,2022,"Drama, Mystery"
+584,When Nature Calls with Helen Mirren,/tv/127548,2021,Comedy
+585,Extraordinary Attorney Woo,/tv/197067,2022,"Drama, Comedy"
+586,Tell Me Lies,/tv/130464,2022,Drama
+587,War of the Worlds,/tv/86374,2019,"Sci-Fi & Fantasy, Drama"
+588,The Good Fight,/tv/69158,2017,Drama
+589,American Gigolo,/tv/127585,2022,Drama
+590,The Lord of the Rings: The Rings of Power,/tv/84773,2022,"Sci-Fi & Fantasy, Action & Adventure, Drama"
+591,The Imperfects,/tv/203555,2022,"Action & Adventure, Drama, Sci-Fi & Fantasy"
+592,Last Light,/tv/195821,2022,"Drama, Sci-Fi & Fantasy"
+593,Biohackers,/tv/100074,2020,"Drama, Sci-Fi & Fantasy, Action & Adventure, Mystery"
+594,Central Park,/tv/98198,2020,"Animation, Comedy"
+595,Alice in Borderland,/tv/110316,2020,"Drama, Mystery, Action & Adventure, Sci-Fi & Fantasy"
+596,Defending Jacob,/tv/87784,2020,"Drama, Mystery, Crime"
+597,Cosmos: Possible Worlds,/tv/155434,2020,Documentary
+598,Disney Gallery / Star Wars: The Mandalorian,/tv/101978,2020,Documentary
+599,Devs,/tv/81349,2020,"Sci-Fi & Fantasy, Drama, Mystery"
+600,Feel Good,/tv/99610,2020,"Drama, Comedy"
+601,High Score,/tv/106754,2020,Documentary
+602,Home Before Dark,/tv/98161,2020,"Mystery, Drama"
+603,I Am Not Okay with This,/tv/90260,2020,"Drama, Comedy, Sci-Fi & Fantasy"
+604,I Know This Much Is True,/tv/88166,2020,Drama
+605,Messiah,/tv/81292,2020,Drama
+606,Mrs. America,/tv/83605,2020,Drama
+607,Normal People,/tv/89905,2020,Drama
+609,The Serpent Queen,/tv/118189,2022,Drama
+611,Cyberpunk: Edgerunners,/tv/105248,2022,"Animation, Action & Adventure, Sci-Fi & Fantasy"
+612,Wayward Pines,/tv/53425,2015,"Drama, Mystery, Sci-Fi & Fantasy"
+613,The Last Dance,/tv/79525,2020,Documentary
+614,The Undoing,/tv/83851,2020,"Drama, Crime, Mystery"
+616,Your Honor,/tv/86430,2020,Drama
+617,The King: Eternal Monarch,/tv/93846,2020,"Sci-Fi & Fantasy, Drama"
+618,Ted Lasso,/tv/97546,2020,"Comedy, Drama"
+619,The Outsider,/tv/84661,2020,"Mystery, Drama, Crime"
+620,Unorthodox,/tv/99581,2020,Drama
+621,Tiger King,/tv/100698,2020,"Documentary, Crime"
+622,Star Wars Vintage: Ewoks,/tv/3478,1985,"Kids, Animation, Sci-Fi & Fantasy, Action & Adventure"
+623,Saturday Night Live,/tv/1667,1975,"Comedy, News"
+624,Black Mirror,/tv/42009,2011,"Sci-Fi & Fantasy, Drama, Mystery"
+625,Fate : The Winx Saga,/tv/97175,2021,"Sci-Fi & Fantasy, Drama"
+626,Heartbreak High,/tv/158154,2022,Drama
+627,Vampire Academy,/tv/125940,2022,"Drama, Sci-Fi & Fantasy"
+628,American Odyssey,/tv/61702,2015,Drama
+629,The Movies,/tv/90832,2019,Documentary
+630,Rebelde,/tv/134949,2022,"Drama, Comedy"
+631,A Private Affair,/tv/112321,2022,"Comedy, Mystery, Drama"
+632,Grimm,/tv/39351,2011,"Drama, Mystery, Sci-Fi & Fantasy"
+633,Santo,/tv/128013,2022,"Crime, Drama"
+634,The Brave Ones,/tv/209390,2022,"Drama, Sci-Fi & Fantasy"
+635,Andor,/tv/83867,2022,"Sci-Fi & Fantasy, Action & Adventure, War & Politics"
+636,All Creatures Great and Small,/tv/7406,1978,"Comedy, Drama"
+637,Reboot,/tv/155427,2022,Comedy
+638,Crossfire,/tv/156763,2022,"Crime, Drama"
+639,Quantum Leap,/tv/202102,2022,"Drama, Sci-Fi & Fantasy"
+640,Bloodlands,/tv/119191,2021,"Crime, Drama"
+642,24: Legacy,/tv/66789,2017,"Crime, Drama, Mystery"
+643,Devilman Crybaby,/tv/75208,2018,"Animation, Action & Adventure, Sci-Fi & Fantasy"
+644,The Looming Tower,/tv/70721,2018,"War & Politics, Drama"
+645,Mission: Impossible,/tv/4357,1966,"Action & Adventure, Crime, Drama, Mystery"
+646,Transplant,/tv/99530,2020,Drama
+647,Professor T,/tv/126660,2021,"Crime, Mystery"
+648,Scam 1992: The Harshad Mehta Story,/tv/111188,2020,"Crime, Drama"
+649,Night on Earth,/tv/97861,2020,Documentary
+650,Rise of Empires: Ottoman,/tv/96481,2020,"Documentary, War & Politics, Action & Adventure"
+651,Criminal: France,/tv/93888,2019,"Drama, Crime, Mystery"
+652,Criminal: Germany,/tv/93886,2019,"Crime, Drama"
+653,Criminal: Spain,/tv/93878,2019,"Crime, Drama"
+654,Criminal: UK,/tv/92926,2019,"Crime, Drama"
+655,Kengan Ashura,/tv/90660,2019,"Animation, Action & Adventure"
+656,Seven Worlds,/tv/90790,2019,Documentary
+658,Rise of the Teenage Mutant Ninja Turtles,/tv/81026,2018,"Animation, Action & Adventure, Comedy, Sci-Fi & Fantasy, Family"
+659,My Next Guest Needs No Introduction With David Letterman,/tv/76178,2018,Talk
+660,Dynasties,/tv/82953,2018,Documentary
+661,Alias Grace,/tv/72615,2017,"Crime, Drama"
+662,Happy,/tv/72339,2017,"Sci-Fi & Fantasy, Comedy, Action & Adventure"
+663,Howards End,/tv/74630,2017,Drama
+665,Descending Stories: Showa Genroku Rakugo Shinju,/tv/66862,2016,"Animation, Drama, Comedy"
+666,Mob Psycho 100,/tv/67075,2016,"Animation, Action & Adventure, Comedy"
+667,My Hero Academia,/tv/65930,2016,"Action & Adventure, Animation"
+668,Anne with an E,/tv/70785,2017,"Drama, Family"
+669,Castlevania,/tv/71024,2017,"Sci-Fi & Fantasy, Animation"
+670,Babylon Berlin,/tv/66980,2017,"Drama, Crime, Mystery"
+671,Lemony Snicket's A Series of Unfortunate Events,/tv/65294,2017,"Action & Adventure, Family, Comedy, Mystery, Drama"
+672,Legion,/tv/67195,2017,"Action & Adventure, Sci-Fi & Fantasy"
+673,Runaways,/tv/116521,2012,
+674,Star Wars: Forces of Destiny,/tv/71412,2017,"Sci-Fi & Fantasy, Animation, Action & Adventure, Family"
+675,Mindhunter,/tv/67744,2017,"Drama, Crime"
+676,The End of the F...ing World,/tv/74577,2017,"Comedy, Drama, Crime"
+677,The Mick,/tv/66551,2017,Comedy
+678,The OA,/tv/69061,2016,"Sci-Fi & Fantasy, Mystery, Drama"
+679,12 Monkeys,/tv/60948,2015,"Sci-Fi & Fantasy, Drama"
+680,Agent Carter,/tv/61550,2015,"Drama, Sci-Fi & Fantasy"
+681,And Then There Were None,/tv/64684,2015,"Mystery, Drama"
+682,Killjoys,/tv/62413,2015,"Action & Adventure, Sci-Fi & Fantasy"
+683,Poldark,/tv/62084,2015,Drama
+684,The Man in the High Castle,/tv/62017,2015,"Sci-Fi & Fantasy, Drama"
+685,The Magicians,/tv/64432,2015,"Drama, Sci-Fi & Fantasy"
+686,Mr. Robot,/tv/62560,2015,"Crime, Drama"
+687,Master of None,/tv/64254,2015,"Comedy, Drama"
+688,Jessica Jones,/tv/38472,2015,"Sci-Fi & Fantasy, Drama"
+689,Blindspot,/tv/62710,2015,"Crime, Drama, Action & Adventure"
+690,Ballers,/tv/62704,2015,"Drama, Comedy"
+691,Narcos,/tv/63351,2015,"Crime, Drama"
+692,Ghosts (2019),/tv/116383,2021,
+694,Overlord,/tv/64196,2015,"Animation, Sci-Fi & Fantasy, Action & Adventure"
+694,Overlord,/tv/111993,2020,Drama
+695,Pagan Peak,/tv/85526,2019,"Crime, Drama"
+696,Dragon Ball Super,/tv/62715,2015,"Animation, Action & Adventure, Sci-Fi & Fantasy"
